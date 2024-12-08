@@ -1,6 +1,6 @@
 # yut.py
 
-from .gamecomponent import GameComponent
+from Yutplaypkg.gamecomponent import GameComponent
 
 class Yut(GameComponent):
     def __init__(self, verbose=False):
