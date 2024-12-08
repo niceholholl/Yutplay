@@ -1,6 +1,6 @@
 # setmal.py
 
-from .gamecomponent import GameComponent
+from Yutplaypkg.gamecomponent import GameComponent
 
 class SetMal(GameComponent):
     def __init__(self, player, mal, verbose=False):
