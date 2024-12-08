@@ -42,11 +42,6 @@ pip3 install numpy
 cd Yutplay
 ```
 
-**Yutplay 패키지 접속**
-```bash
-cd Yutplay
-```
-
 **main.py 스크립트를 실행하여 게임을 시작**
 
 ```bash
