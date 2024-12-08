@@ -28,10 +28,24 @@
 
 ```bash
 git clone git clone https://github.com/niceholholl/Yutplay
-cd Yutplay
+```
+
+**Numpy 모듈 다운로드**
+```bash
+pip3 install numpy
 ```
 
 ## 사용 방법
+
+**Yutplay 폴더 접속**
+```bash
+cd Yutplay
+```
+
+**Yutplay 패키지 접속**
+```bash
+cd Yutplay
+```
 
 **main.py 스크립트를 실행하여 게임을 시작**
 
