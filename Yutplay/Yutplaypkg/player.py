@@ -1,6 +1,6 @@
 # player.py
 
-from .gamecomponent import GameComponent
+from Yutplaypkg.gamecomponent import GameComponent
 
 class Player(GameComponent):
     def __init__(self, name, mal_symbols, verbose=False):
