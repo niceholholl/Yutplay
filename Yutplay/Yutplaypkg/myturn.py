@@ -1,6 +1,6 @@
 # myturn.py
 
-from .gamecomponent import GameComponent
+from Yutplaypkg.gamecomponent import GameComponent
 
 class Myturn(GameComponent):
     def __init__(self, game, yutpan, verbose=False):
