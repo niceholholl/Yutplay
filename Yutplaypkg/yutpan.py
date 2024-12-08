@@ -1,6 +1,12 @@
 # yutpan.py
 
 from Yutplaypkg.gamecomponent import GameComponent
+from Yutplaypkg.yut import Yut
+from Yutplaypkg.setmal import SetMal
+from Yutplaypkg.mal import Mal
+from Yutplaypkg.player import Player
+from Yutplaypkg.gamestart import Gamestart
+from Yutplaypkg.myturn import Myturn
 
 class Yutpan(GameComponent):
     def __init__(self, verbose=False):
