@@ -8,6 +8,7 @@ class Player(GameComponent):
         super().__init__(verbose)
         self.name = name
         self.mal_symbols = mal_symbols
+        print(f"Initializing Player with name: {name} and mal_symbols: {mal_symbols}")    
         self.mals = [Mal(name, symbol, verbose) for symbol in mal_symbols]
         try:
             from Yutplaypkg.mal import Mal
