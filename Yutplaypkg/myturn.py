@@ -1,6 +1,12 @@
 # myturn.py
 
 from Yutplaypkg.gamecomponent import GameComponent
+from Yutplaypkg.yut import Yut
+from Yutplaypkg.setmal import SetMal
+from Yutplaypkg.mal import Mal
+from Yutplaypkg.player import Player
+from Yutplaypkg.yutpan import Yutpan
+from Yutplaypkg.gamestart import Gamestart
 
 class Myturn(GameComponent):
     def __init__(self, game, yutpan, verbose=False):
