@@ -1,7 +1,6 @@
 # gamestart.py
 
 from Yutplaypkg.gamecomponent import GameComponent
-from Yutplaypkg.setmal import SetMal
 from Yutplaypkg.player import Player
 
 class Gamestart(GameComponent):
