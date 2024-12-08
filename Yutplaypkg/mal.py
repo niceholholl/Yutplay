@@ -1,6 +1,12 @@
 # mal.py
 
+from Yutplaypkg.gamecomponent import GameComponent
+from Yutplaypkg.yut import Yut
 from Yutplaypkg.setmal import SetMal
+from Yutplaypkg.player import Player
+from Yutplaypkg.yutpan import Yutpan
+from Yutplaypkg.gamestart import Gamestart
+from Yutplaypkg.myturn import Myturn
 
 class Mal(SetMal):
     def __init__(self, player, mal, verbose=False):
