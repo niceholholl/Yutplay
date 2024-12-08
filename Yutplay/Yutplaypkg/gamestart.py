@@ -1,6 +1,7 @@
 # gamestart.py
 
 from Yutplaypkg.gamecomponent import GameComponent
+from Yutplaypkg.player import Player
 
 class Gamestart(GameComponent):
     def __init__(self, verbose=False):
