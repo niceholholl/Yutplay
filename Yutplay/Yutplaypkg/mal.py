@@ -1,6 +1,6 @@
 # mal.py
 
-from .setmal import SetMal
+from Yutplaypkg.setmal import SetMal
 
 class Mal(SetMal):
     def __init__(self, player, mal, verbose=False):
