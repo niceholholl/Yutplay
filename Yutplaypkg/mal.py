@@ -1,6 +1,5 @@
 # mal.py
 
-from Yutplaypkg.gamecomponent import GameComponent
 from Yutplaypkg.setmal import SetMal
 
 class Mal(SetMal):
