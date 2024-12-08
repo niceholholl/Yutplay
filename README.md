@@ -27,7 +27,7 @@
 **레포지토리 클론하기**
 
 ```bash
-git clone https://github.com/niceholholl/Yutplay
+git clone git clone https://github.com/niceholholl/Yutplay
 cd Yutplay
 ```
 
