@@ -27,7 +27,7 @@
 **레포지토리 클론하기**
 
 ```bash
-git clone git clone https://github.com/niceholholl/Yutplay
+git clone https://github.com/niceholholl/Yutplay
 ```
 
 **Numpy 모듈 다운로드**
