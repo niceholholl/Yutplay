@@ -34,7 +34,7 @@ git clone https://github.com/niceholholl/Yutplay.git
 ```bash
 pip3 install numpy
 ```
-(numpy update를 위한 입력 추가)
+(단, numpy update를 위한 추가 입력 필요할 수도 있음)
 
 ## 사용 방법
 
