@@ -1,5 +1,4 @@
 # mal.py
-
 from Yutplaypkg.setmal import SetMal
 
 class Mal(SetMal):
