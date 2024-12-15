@@ -1,5 +1,4 @@
 # myturn.py
-
 from Yutplaypkg.gamecomponent import GameComponent
 from Yutplaypkg.yut import Yut
 
